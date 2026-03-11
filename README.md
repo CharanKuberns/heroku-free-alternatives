@@ -11,8 +11,8 @@ Free tier of Heroku Dynos, Postgres and Data for Redis will no longer be availab
 | [dokku.com](https://dokku.com/) | An open source PAAS alternative to Heroku. |
 | [domcloud.co](https://domcloud.co/) | It's like those modern hosting platforms, but for the old school. |
 | [koyeb.com](https://www.koyeb.com) | For deploying full stack apps and APIs globally. Enjoy high-end performance thanks to fully automated deployments to BareMetal servers and our built-in edge network. |
+| [kuberns.com](https://kuberns.com) | AI-powered deployment platform that lets developers deploy applications in one-click with Agentic AI deployments and End-to-End Cloud Management|
 | [netlify.com](https://www.netlify.com/) | Free static site hosting with GitHub integration |
 | [northflank.com](https://www.northflank.com/) | Deploy any code, job, or database in seconds. |
 | [qoddi.com](https://qoddi.com/) | Qoddi is a fully managed App Hosting Platform running on a tier 1 network at 10% of the cost of similar solutions. |
 | [render.com](https://render.com/) | One of the top Heroku alternatives with a free plan to get started. |
-| [withcoherence.com](https://www.withcoherence.com/) | Coherence automates DevOps for early stage teams laser focused on customer value. |
